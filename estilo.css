@@ -1,0 +1,27 @@
+body{
+    background-color: yellowgreen;
+}
+
+
+h1{
+    background-color: darkmagenta;
+}
+#h2-1{
+    color: darkred;
+}
+#h2-2{
+    color: magenta;
+    background-color: red;
+}
+
+.fundo{
+    background-color: mediumaquamarine;
+}
+
+#caixa{
+    background-color: goldenrod;
+    padding: 10px;
+    padding-top: 20px;
+    padding-left: 15px;
+    border: red;
+}
